@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OCR - Text Search</string>
+    <string name="imagescan">Image Scan</string>
+    <string name="pdfscan">PDF Scan</string>
+    <string name="searchtextbox">Search data here..</string>
+    <string name="select_language">Select Language :</string>
+    <string name="selected_file">Selected File:</string>
+    <string name="extracted_text">Extracted Text:</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Telugu</item>
+        <item>Urdu</item>
+    </string-array>
+</resources>
